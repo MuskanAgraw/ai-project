@@ -78,7 +78,7 @@ int main(){
         cout<<endl;
         cout<<"Case 1:Diagnosis"<<endl;
         cout<<"Case 2:DIABETIES"<<endl;
-        cout<<"Enter 0 for exit:"<<endl;
+        cout<<"If you are done then enter 0 to exit:"<<endl;
         cout<<endl;
     cout<<"Enter the value (what you want to perform ):";
     cin>>d;
@@ -93,7 +93,7 @@ int main(){
             break;
         }
         else {
-            cout<<"invalid number ";
+            cout<<"Invalid number ";
         }
         cout<<" ---------------------------------------------------------------------------------- "<<endl;
     } 
